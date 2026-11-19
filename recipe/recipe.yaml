@@ -10,7 +10,7 @@ source:
   sha256: 8692491a34477a46d700ad117fc5515a4730e93c02b832e9781967651f017646
 
 build:
-  number: 0
+  number: 1
   # The CMake build only supports GNU or Intel Fortran compilers; conda-forge
   # ships flang on Windows.
   skip: win
